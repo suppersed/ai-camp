@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "serve public"
+  },
+  "dependencies": {
+    "firebase": "^12.14.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}
